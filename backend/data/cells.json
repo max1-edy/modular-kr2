@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cell-1",
+    "substationId": "sub-1",
+    "cellNumber": "К-01",
+    "feederName": "Фідер 10 кВ Завод ЗБК",
+    "breakerType": "вакуумний",
+    "currentLoadAmp": 145,
+    "status": "увімкнено",
+    "lastInspectionDate": "2026-09-15"
+  },
+  {
+    "id": "cell-2",
+    "substationId": "sub-1",
+    "cellNumber": "К-02",
+    "feederName": "Фідер 10 кВ Насосна станція №4",
+    "breakerType": "елегазовий",
+    "currentLoadAmp": 0,
+    "status": "заземлено",
+    "lastInspectionDate": "2026-10-02"
+  }
+]

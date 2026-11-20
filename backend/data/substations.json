@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sub-1",
+    "code": "ПС-110/10 «Північна»",
+    "name": "Північна вузлова",
+    "location": "вул. Промислова, 14",
+    "voltageClass": "110/10 кВ",
+    "status": "в роботі",
+    "totalPowerKva": 32000,
+    "commissioningYear": 1988,
+    "description": "Цілодобове чергування оперативної бригади. В'їзд через КПП №2."
+  },
+  {
+    "id": "sub-2",
+    "code": "ПС-35/10 «Портова»",
+    "name": "Портова розподільча",
+    "location": "Припортовий проїзд, 3",
+    "voltageClass": "35/10 кВ",
+    "status": "плановий ремонт",
+    "totalPowerKva": 12600,
+    "commissioningYear": 2004,
+    "description": "Виведено в ремонт трансформатор Т-2 до кінця тижня."
+  },
+  {
+    "id": "sub-1795172927536",
+    "code": "ПС_50",
+    "name": "Нерушай",
+    "location": "вул Шевченка",
+    "voltageClass": "35/10 кВ",
+    "status": "аварійний вивід",
+    "totalPowerKva": 10000,
+    "commissioningYear": 2000,
+    "description": ""
+  }
+]
